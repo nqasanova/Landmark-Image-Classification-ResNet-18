@@ -100,8 +100,8 @@ team-project-team-project-team-5/
 **1. Clone the repo:**
 
 ```bash
-git clone https://github.com/ADA-SITE-CSCI-4701/team-project-team-project-team-5
-cd team-project-team-project-team-5
+git clone https://github.com/nqasanova/Landmark-Image-Classification-ResNet-18
+cd Landmark-Image-Classification-ResNet-18
 ```
 
 **2. Download dataset:**
